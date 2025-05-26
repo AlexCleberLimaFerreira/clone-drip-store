@@ -1,0 +1,14 @@
+.box-logo {
+    width: 15.813rem;
+    height: 2.75rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.box-logo a {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
