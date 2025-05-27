@@ -1,4 +1,9 @@
-header {
+#header {
+    border: 1px solid red;
+    width: 100%;
+}
+
+#header .box-header {
     border: 1px solid red;
     width: 90rem;
     height: 12rem;
